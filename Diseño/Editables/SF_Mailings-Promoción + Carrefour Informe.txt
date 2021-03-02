@@ -1,0 +1,84 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: SF_Mailings-Promoción + Carrefour.ai
+Modo de color: Color RGB
+Perfil de color: Display
+Unidades de regla: píxeles
+Dimensiones de la mesa de trabajo: 600 px x 2181,4707 px
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+BER DIG 02 (RGB)
+BER DIG 03* (RGB)
+BSC DIG 01 (RGB)
+BSC DIG 03* (RGB)
+BSF DIG 01 (RGB)
+BSF DIG 03* (RGB)
+BSJ DIG 03* (RGB)
+GRIS DIG 01 (RGB)
+Negro 80% (RGB)
+PANTONE 123 C (Lab)
+PANTONE 1805 C (Lab)
+PANTONE 1815 C (Lab)
+PANTONE 485 C (Lab)
+PANTONE 627 C (Lab)
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:
+OpenSans Regular* (no instalada)
+OpenSansCondensed Bold* (no instalada)
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Open Sans Condensed Light (TrueType)
+Open Sans Bold (TrueType)
+Open Sans Light (TrueType)
+Open Sans SemiBold (TrueType)
+Open Sans ExtraBold (TrueType)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+C:\Users\rsarmiento\Downloads\editables bersa promos\SF_Mailings-Promoción + Carrefour_Editable\Links\img_pago tarjeta SF.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 7810K, 2000 por 1333 píxeles
+Dimensiones: 771,132 por 505,451 puntos 
+Resolución: 186,738 por 189,882 píxeles por pulgada
+
+
+C:\Users\rsarmiento\Downloads\editables bersa promos\SF_Mailings-Promoción + Carrefour_Editable\Links\Libertad-logo.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 866K, 595 por 373 píxeles
+Dimensiones: 96,896 por 60,743 puntos 
+Resolución: 442,122 por 442,122 píxeles por pulgada
+
+
+C:\Users\rsarmiento\Downloads\editables bersa promos\SF_Mailings-Promoción + Carrefour_Editable\Links\JK-Logo-Horizontal.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 68K, 286 por 61 píxeles
+Dimensiones: 79,06 por 16,862 puntos 
+Resolución: 260,461 por 260,461 píxeles por pulgada
